@@ -57,5 +57,7 @@ If this policy is updated, the "last updated" date at the top will be revised.
 If you have questions about this privacy policy, contact:
 
 **Abhishek Jhanwar**
+
 **Country:** India
+
 mytijori.official@gmail.com
